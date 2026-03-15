@@ -6,7 +6,7 @@ It evaluates understanding of:
 - Nested loops  
 - Spacing and alignment  
 - Pattern construction and output formatting
-  ## How It Works
+  ## how it Works
 1. **Two main loops**:
    - Upper half of the pattern  
    - Lower half of the pattern  
